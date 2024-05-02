@@ -1,0 +1,54 @@
+body{
+
+    font-style: Times;
+   
+    
+    
+
+}
+h1{
+    font-size: 2em;
+
+
+
+}
+#IMAG {
+   display: flex;
+   margin-left:15px;
+}
+#
+.LogoWhatsapp:hover{
+
+    opacity: 0.5;
+
+}
+
+ 
+#arriba img:first-child{
+
+    margin-right: 10px;
+    margin-left: 100px;
+
+ }
+#arriba{
+
+    display: flex;
+    background-color: #a87b05;
+}
+.morenita{
+    color: ;
+    background-color:#a87b05;
+    -moz-backface-visibility: initial;
+    border: radius 4px;
+    mar
+}
+.slider{
+
+    margin-top: 2cm;
+}
+.slider image{
+
+    
+
+
+}
